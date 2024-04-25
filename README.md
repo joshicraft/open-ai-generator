@@ -1,4 +1,4 @@
-# open-ai-generator
+# open-ai-generator test
 
 ## Project setup
 ```
